@@ -9,6 +9,7 @@
         <legend>Registro</legend>
         <h1>Hello World</h1>
         <p>Parrafo Hello World</p>
+        <p>Parrafo Hello World2</p>
 
         <p>
           <label for="nombre">NombreLabel</label>
