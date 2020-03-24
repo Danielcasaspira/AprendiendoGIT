@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+  </head>
+  <body>
+    <label form="nombre">Nombre de usuario*</label><br><br\>
+      <input type="text" name="Nombre de usuario" required/><br><br\>
+  <br><br\>
+    <label form="nombre">Email*</label><br><br\>
+      <input type="text" name="Email" required><br><br\>
+  <br><br\>
+    <label

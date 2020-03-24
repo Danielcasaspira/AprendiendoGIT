@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>viaje a NY</title>
+  </head>
+  <body>
+    <h1>Viajar a NY</h1>
+      <img src="https://images.freeimages.com/images/large-previews/a89/new-york-city-1451712.jpg" alt="puente new york" title="puente new york" width="500" height="300"/>
+       <p>Aqui conseguirás información para planificar tu viaje a NY</p>
+      <h1>Recordatorios</h1>
+      <ul>
+        <li>Comprar tarjeta de metro</li>
+        <li>Alquiler de hotel</li>
+        <li>Lista de lugares a visitar</li>
+        <li>Lista de lugares para comer</li>
+      </ul>
+    <h1>Costos</h1>
+    <table border="1"</table>
+      <thead>
+      <tr>
+       <th>Descripcion</th>
+       <th>Costo</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+        <td>Transporte</td>
+        <td>100</td>
+      </tr>
+      <tr>
+        <td>Hotel</td>
+        <td>500</td>
+      </tr>
+      <tr>
+        <td>Comida</p>
+        <td>150</p>
+      </tr>
+      <tr>
+        <th>Total</th>
+        <td>750</td>
+      </tr>
+    </tbody>
+  </body>
+</html>
