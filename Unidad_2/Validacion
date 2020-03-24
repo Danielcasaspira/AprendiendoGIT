@@ -8,6 +8,8 @@
       <fieldset>
         <legend>Registro</legend>
         <h1>Hello World</h1>
+        <p>Parrafo Hello World</p>
+
         <p>
           <label for="nombre">NombreLabel</label>
           <input type="text" name="nombre" required>
